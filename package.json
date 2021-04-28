@@ -1,0 +1,24 @@
+{
+  "name": "simple_tweet",
+  "version": "1.0.0",
+  "description": "simple tweet program to learn node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiyoondev/Simple_Tweet.git"
+  },
+  "author": "jiyoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiyoondev/Simple_Tweet/issues"
+  },
+  "homepage": "https://github.com/jiyoondev/Simple_Tweet#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "uuid": "^8.3.2"
+  }
+}
